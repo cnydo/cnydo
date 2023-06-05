@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Long</h1>
-<h3 align="center">I'm a junior studying Artificial Intelligence major at FPT University</h3>
+<h3 align="center">I'm a senior student studying Artificial Intelligence major at FPT University</h3>
 
 - 📫 How to reach me **anthanhlong@pm.me**
 
